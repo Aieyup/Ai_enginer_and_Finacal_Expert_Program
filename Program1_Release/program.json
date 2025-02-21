@@ -1,0 +1,259 @@
+{
+    "program": [
+        {
+            "title": "Temel Aşama (0-3 Ay)",
+            "tasks": [
+                {
+                    "name": "Matematik ve İstatistik",
+                    "subtasks": [
+                        {
+                            "name": "Lineer Cebir: Matris, vektör işlemleri, SVD, özdeğer ve özvektör"
+                        },
+                        {
+                            "name": "Calculus ve Diferansiyel Denklemler: Türev, integral, stokastik diferansiyel denklemlere giriş"
+                        },
+                        {
+                            "name": "Olasılık ve İstatistik: Temel dağılımlar, hipotez testleri, Bayes analizi"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Bilgisayar Bilimi ve Programlama",
+                    "subtasks": [
+                        {
+                            "name": "Python Temelleri: Veri tipleri, NumPy, pandas"
+                        },
+                        {
+                            "name": "Algoritmalar ve Veri Yapıları: Dizi, grafik, karmaşıklık analizleri"
+                        },
+                        {
+                            "name": "Yazılım Mühendisliği Prensipleri: Git, test otomasyonu, CI/CD"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Veri Toplama, Ön İşleme ve EDA",
+                    "subtasks": [
+                        {
+                            "name": "Veri Temizleme: Eksik veri yönetimi, aykırı değer tespiti",
+                            "completed": false
+                        },
+                        {
+                            "name": "EDA: Korelasyon analizi, veri görselleştirme",
+                            "completed": false
+                        },
+                        {
+                            "name": "Risk Analizi: Basit portföy dağılımları ve Sharpe oranı hesaplama",
+                            "completed": false
+                        }
+                    ],
+                    "completed": false
+                }
+            ]
+        },
+        {
+            "title": "Makine Öğrenimi ve Klasik Modeller (3-6 Ay)",
+            "tasks": [
+                {
+                    "name": "Klasik Makine Öğrenimi",
+                    "subtasks": [
+                        {
+                            "name": "Denetimli Öğrenme: Lojistik regresyon, karar ağaçları, random forest"
+                        },
+                        {
+                            "name": "Denetimsiz Öğrenme: K-means, PCA"
+                        },
+                        {
+                            "name": "Model Değerlendirme: Confusion matrix, F1, ROC AUC"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Zaman Serisi Analizi",
+                    "subtasks": [
+                        {
+                            "name": "ARIMA ve GARCH: Durağanlık, mevsimsellik analizi"
+                        },
+                        {
+                            "name": "LSTM ve GRU: Derin öğrenme tabanlı zaman serisi tahmini"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Proje Çalışmaları",
+                    "subtasks": [
+                        {
+                            "name": "Backtesting Projesi: SMA crossover ile strateji testi"
+                        },
+                        {
+                            "name": "Kaggle Yarışması: Finansal veri analizi"
+                        }
+                    ],
+                    "completed": false
+                }
+            ]
+        },
+        {
+            "title": "Derin Öğrenme ve İleri Teknikler (6-9 Ay)",
+            "tasks": [
+                {
+                    "name": "Sinir Ağları ve Derin Öğrenme",
+                    "subtasks": [
+                        {
+                            "name": "Temel Kavramlar: Yapay sinir ağları, optimizasyon"
+                        },
+                        {
+                            "name": "CNN, RNN, Transformer Modelleri: Görüntü ve metin analizi"
+                        },
+                        {
+                            "name": "Reinforcement Learning: Q-learning, PPO"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Embeddings ve NLP",
+                    "subtasks": [
+                        {
+                            "name": "Embeddings: Word2Vec, BERT Embeddings"
+                        },
+                        {
+                            "name": "Duygu Analizi: Finansal haberlerde sentiment analizi"
+                        },
+                        {
+                            "name": "Vektör Veritabanları: FAISS, Pinecone kullanımı"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Multimodal ve Disiplinler Arası Bakış",
+                    "subtasks": [
+                        {
+                            "name": "Psikoloji ve Karar Verme: Bilişsel önyargılar ve heuristics"
+                        },
+                        {
+                            "name": "Felsefe ve Etik: Veri gizliliği, adillik ve şeffaflık"
+                        }
+                    ],
+                    "completed": false
+                }
+            ]
+        },
+        {
+            "title": "MLOps, Güvenlik ve Üretim (9-12 Ay)",
+            "tasks": [
+                {
+                    "name": "Model Dağıtımı ve MLOps",
+                    "subtasks": [
+                        {
+                            "name": "CI/CD Süreçleri: Docker, Kubernetes, MLflow"
+                        },
+                        {
+                            "name": "Model İzleme: Veri kayması tespiti"
+                        },
+                        {
+                            "name": "Gerçek Zamanlı Veri İşleme: Kafka, RabbitMQ"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Güvenlik ve Etik",
+                    "subtasks": [
+                        {
+                            "name": "Bias ve Fairness: Adversarial saldırılar"
+                        },
+                        {
+                            "name": "Regülasyon: GDPR, KVKK uyumluluğu"
+                        }
+                    ],
+                    "completed": false
+                }
+            ]
+        },
+        {
+            "title": "Algoritmik Ticaret Botları (Derinleşme)",
+            "tasks": [
+                {
+                    "name": "Finansal Matematik ve Modeller",
+                    "subtasks": [
+                        {
+                            "name": "Volatilite Modelleme: ARCH, GARCH, implied volatility"
+                        },
+                        {
+                            "name": "Portföy Teorisi: Efficient Frontier, Sharpe oranı"
+                        },
+                        {
+                            "name": "Opsiyon Fiyatlama: Black-Scholes, Monte Carlo"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Strateji Tasarımı ve Backtesting",
+                    "subtasks": [
+                        {
+                            "name": "Strateji Geliştirme: SMA, RSI gibi teknikler"
+                        },
+                        {
+                            "name": "Backtesting: Tarihsel veri ile simülasyon"
+                        },
+                        {
+                            "name": "Performans Optimizasyonu: Paralel işlem, gecikme optimizasyonu"
+                        }
+                    ],
+                    "completed": false
+                }
+            ]
+        },
+        {
+            "title": "Kapanış: Sertifikasyon, Portföy ve Kariyer (12+ Ay)",
+            "tasks": [
+                {
+                    "name": "Sertifikasyon",
+                    "subtasks": [
+                        {
+                            "name": "Google Data Analytics Certificate"
+                        },
+                        {
+                            "name": "AWS Machine Learning Specialty"
+                        },
+                        {
+                            "name": "CFA, FRM, CMT sertifikaları"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Portföy ve Projeler",
+                    "subtasks": [
+                        {
+                            "name": "GitHub ve Kaggle projeleri paylaşımı"
+                        },
+                        {
+                            "name": "Blog yazıları: AI ve finans modelleri"
+                        }
+                    ],
+                    "completed": false
+                },
+                {
+                    "name": "Topluluk Katılımı",
+                    "subtasks": [
+                        {
+                            "name": "Hackathon ve Meet-up’lara katılım"
+                        },
+                        {
+                            "name": "Konferans/Seminer: Finansal yapay zekâ"
+                        }
+                    ],
+                    "completed": false
+                }
+            ]
+        }
+    ]
+}
