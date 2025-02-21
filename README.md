@@ -1,5 +1,5 @@
 #  Yapay Zeka Eğitim Programı Takip Uygulaması
-Bu program Temel olarak Yapay Zeka mühendisi olma yolumda kişisel olarak oluşturulmuştur.Yapay zeka, makine öğrenmesi ve finans alanlarında kapsamlı bir eğitim yolculuğumu kapsamaktadır.Bu Yol haritasını paylaşmadaki amaçım hem kişisel araştırmalarımın bir fayda sağlaması hemde takip ettiğim bu yolda bir motivasyon etkisi yaratma amacı taşımaktadır.
+Bu program Temel olarak Yapay Zeka mühendisi olma yolumda kişisel olarak oluşturulmuştur.Yapay zeka, makine öğrenmesi ve finans alanlarında kapsamlı bir eğitim yolculuğumu kapsamaktadır.Bu Yol haritasını paylaşmadaki amacım hem kişisel araştırmalarımın bir fayda sağlaması hemde takip ettiğim bu yolda bir motivasyon etkisi yaratma amacı taşımaktadır.
 
 Kişisel olarak Belirtiğim bu eğitimleri Coursera Edex Udemy ve Youtube gibi kaynaklardan yaralanabilirsiniz.Kişel olarak Bu eğitimleri Coursera Platformunda yer alan eğitimlerden almaktayım.
 
