@@ -70,7 +70,7 @@ Temel olarak eğitimin genel işleyişi:
 Veriler `program.json` dosyasında saklanır. Bu dosyayı silmeyin veya taşımayın. 
 ## Yazar
 ---
-Bu Python eğitimi, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
+Bu Proje, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
 ### İletişim
 
 [eyup.tp@hotmail.com](mailto:eyup.tp@hotmail.com)
